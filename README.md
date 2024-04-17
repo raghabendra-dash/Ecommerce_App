@@ -36,7 +36,7 @@ Welcome to our E-commerce App! This React and Redux-based application offers a s
 
 
 ## Tech Stack
-HTML/CSS, React, JavaScript, React-Redux, React Toolkit
+HTML/CSS, Bootstrap, React, JavaScript, React-Redux, React Toolkit
 
 ## Installation
 
