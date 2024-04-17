@@ -41,7 +41,7 @@ HTML/CSS, Bootstrap, React-Router, JavaScript, React-Redux, React Toolkit
 ## Installation
 
 1. Clone the repository.
-      git clone [CLICK](https://github.com/raghabendra-dash/Ecommerce-App-React.git)
+      git clone [CLICK](https://github.com/raghabendra-dash/Ecommerce_App.git)
 
 2. Usage Browse through the products on the homepage. Click on a product to view more details. Add   products to the cart. Review items in the cart. Remove items from the cart. Proceed to checkout and complete the purchase.
 
