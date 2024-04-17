@@ -8,7 +8,7 @@ Welcome to our E-commerce App! This React and Redux-based application offers a s
 
 ### Home
 
-    ![Screenshot (1977)](https://github.com/raghabendra-dash/Ecommerce-App-React/assets/147539313/12340655-4a4e-4388-8f6d-9a3986202a87)
+ ![Screenshot (1977)](https://github.com/raghabendra-dash/Ecommerce-App-React/assets/147539313/12340655-4a4e-4388-8f6d-9a3986202a87)
 
 
 
@@ -16,7 +16,7 @@ Welcome to our E-commerce App! This React and Redux-based application offers a s
 
 ### Men collections
 
-    ![Screenshot (1978)](https://github.com/raghabendra-dash/Ecommerce-App-React/assets/147539313/d4bec1bf-396a-4e91-9d5e-9333c888623c)
+ ![Screenshot (1978)](https://github.com/raghabendra-dash/Ecommerce-App-React/assets/147539313/d4bec1bf-396a-4e91-9d5e-9333c888623c)
 
 
 
@@ -24,7 +24,7 @@ Welcome to our E-commerce App! This React and Redux-based application offers a s
 
 ### Women collections
 
-   ![Screenshot (1979)](https://github.com/raghabendra-dash/Ecommerce-App-React/assets/147539313/4ab58d5c-0131-4af9-91b8-af140283efc6)
+ ![Screenshot (1979)](https://github.com/raghabendra-dash/Ecommerce-App-React/assets/147539313/4ab58d5c-0131-4af9-91b8-af140283efc6)
 
 
 
@@ -32,7 +32,7 @@ Welcome to our E-commerce App! This React and Redux-based application offers a s
 
 ### Electronics collections 
 
-  ![Screenshot (1980)](https://github.com/raghabendra-dash/Ecommerce-App-React/assets/147539313/0c7bbd4a-e05d-4bb6-8377-e0301ff1fba0)
+![Screenshot (1980)](https://github.com/raghabendra-dash/Ecommerce-App-React/assets/147539313/0c7bbd4a-e05d-4bb6-8377-e0301ff1fba0)
 
 
 ## Tech Stack
