@@ -1,6 +1,5 @@
 # E-commerce App
 **Overview**
-
 Welcome to our E-commerce App! This React and Redux-based application offers a streamlined shopping experience. Below, you'll find details on setting up and running the app, along with its core features.
 
 > Go live: [Click Here]()
