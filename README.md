@@ -1,5 +1,6 @@
 # E-commerce App
 **Overview**:
+
 Welcome to our E-commerce App! This React and Redux-based application offers a streamlined shopping experience. Below, you'll find details on setting up and running the app, along with its core features.
 
 > Go live: [Click Here]()
@@ -11,23 +12,30 @@ Welcome to our E-commerce App! This React and Redux-based application offers a s
 
 
 
-# Men collections
+
+
+> **Men collections**
 
 ![Screenshot (1978)](https://github.com/raghabendra-dash/Ecommerce-App-React/assets/147539313/d4bec1bf-396a-4e91-9d5e-9333c888623c)
 
 
-# Women collections
+
+
+
+> **Women collections**
 
 ![Screenshot (1979)](https://github.com/raghabendra-dash/Ecommerce-App-React/assets/147539313/4ab58d5c-0131-4af9-91b8-af140283efc6)
 
 
-# Electronics collections
+
+
+
+> **Electronics collections**
 
 ![Screenshot (1980)](https://github.com/raghabendra-dash/Ecommerce-App-React/assets/147539313/0c7bbd4a-e05d-4bb6-8377-e0301ff1fba0)
 
 
 # Tech Stack
-
 React, MUI, JavaScript, React-Redux, React Toolkit
 
 # Installation
