@@ -1,12 +1,12 @@
 # E-commerce App
-**Overview**:
-
 Welcome to our E-commerce App! This React and Redux-based application offers a streamlined shopping experience. Below, you'll find details on setting up and running the app, along with its core features.
 
 > Go live: [Click Here]()
 
 
-# Products_List_Page
+## Products_List_Page
+
+### Home
 
 ![Screenshot (1977)](https://github.com/raghabendra-dash/Ecommerce-App-React/assets/147539313/12340655-4a4e-4388-8f6d-9a3986202a87)
 
@@ -14,7 +14,7 @@ Welcome to our E-commerce App! This React and Redux-based application offers a s
 
 
 
-> **Men collections**
+### Men collections
 
 ![Screenshot (1978)](https://github.com/raghabendra-dash/Ecommerce-App-React/assets/147539313/d4bec1bf-396a-4e91-9d5e-9333c888623c)
 
@@ -22,7 +22,7 @@ Welcome to our E-commerce App! This React and Redux-based application offers a s
 
 
 
-> **Women collections**
+### Women collections
 
 ![Screenshot (1979)](https://github.com/raghabendra-dash/Ecommerce-App-React/assets/147539313/4ab58d5c-0131-4af9-91b8-af140283efc6)
 
@@ -30,22 +30,22 @@ Welcome to our E-commerce App! This React and Redux-based application offers a s
 
 
 
-> **Electronics collections**
+### Electronics collections 
 
 ![Screenshot (1980)](https://github.com/raghabendra-dash/Ecommerce-App-React/assets/147539313/0c7bbd4a-e05d-4bb6-8377-e0301ff1fba0)
 
 
-# Tech Stack
+## Tech Stack
 React, MUI, JavaScript, React-Redux, React Toolkit
 
-# Installation
+## Installation
 
 1. Clone the repository.
       git clone https://github.com/khalidlad888/React-eCommerce.git
 
 2. Usage Browse through the products on the homepage. Click on a product to view more details. Add   products to the cart. Review items in the cart. Remove items from the cart. Proceed to checkout and complete the purchase.
 
-# Available Scripts
+## Available Scripts
 
 In the project directory, you can run:
 
@@ -82,7 +82,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-**Learn More**
+## Learn More
 
 You can learn more in the Create React App documentation.
 
