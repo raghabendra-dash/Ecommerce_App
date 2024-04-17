@@ -1,0 +1,92 @@
+.newArrival-heading {
+    position: relative;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: rgb(249, 234, 103);
+    height: 30px;
+    font-style: oblique;
+    padding: 10px;
+  }   
+
+.products_container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  /* justify-content: space-evenly; */
+  flex-wrap: wrap;
+}
+
+.item-card {
+  padding: 5px;
+  box-shadow: 0 0 13px 1px rgb(212, 158, 158);
+  width: 22.5%;
+  margin: 15px 35px 15px 35px;
+  height: 24.5rem;
+  display: flex;
+  flex-direction: column;
+  border-radius: 8px;
+  border: 1px solid black;
+  position: relative;
+}
+.item-card:hover {
+  box-shadow: 0 0 21px 5px rgb(243, 156, 68);
+}
+
+.item-image-container {
+  box-shadow: 0 0 3px rgb(253, 192, 131);
+  width: 100%;
+  background-color: rgb(248, 239, 242);
+}
+.item-card img {
+  padding: 10px;
+  height: 9rem;
+  width: 8rem;
+  position: relative;
+}
+
+.item-description-container {
+  margin-left: 5px;
+  position: relative;
+  padding: 8px;
+}
+.item-card li {
+  list-style: none;
+  padding: 2px;
+}
+
+.price {
+  color: red;
+  font-weight: 700;
+}
+
+/* Bottom part of the card */
+.bottom-part-of-Cart {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  bottom: 5px;
+  width: 100%;
+}
+.add-to-cart-btn {
+  background-color: rgb(49, 126, 232);
+  color: rgb(255, 255, 255);
+  border: none;
+  height: 25px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 600;
+  position: absolute;
+  box-shadow: 0 0 10px 2px rgb(244, 196, 196);
+  padding: 5px;
+  bottom: 10px;
+  left: 18px;
+}
+.bottom-part-of-Cart img {
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+  position: relative;
+  right: -70px;
+  top: 2px;
+}

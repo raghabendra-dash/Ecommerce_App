@@ -1,0 +1,96 @@
+.CartItem_Container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+}
+
+.CartItem_Card {
+  height: 280px;
+  box-shadow: 0 0 10px 1px;
+  padding: 18px;
+  width: 72%;
+  display: flex;
+  margin: 10px;
+}
+
+.CartItem_Card li {
+  list-style: none;
+  padding: 5px;
+  font-size: 17px;
+}
+
+.img_Container {
+  height: 280px;
+  width: 260px;
+  box-shadow: 0 0 3px 1px;
+  display: flex;
+  justify-content: center;
+}
+
+.img_Container img {
+  height: 200px;
+  width: 200px;
+  position: relative;
+  left: -10px;
+  top: 10px;
+}
+
+.cartItem_description {
+  margin-left: 20px;
+  position: relative;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.removeFromCart {
+  position: absolute;
+  bottom: 27px;
+  right: 100px;
+  height: 30px;
+  width: 30px;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.removeFromCart img {
+  position: relative;
+  height: 35px;
+  width: 35px;
+}
+
+.incredecreContainer {
+  position: absolute;
+  right: 10px;
+  bottom: 2px;
+}
+.decrementItem {
+  height: 30px;
+  width: 30px;
+  position: relative;
+  right: -20px;
+  cursor: pointer;
+}
+.incrementItem {
+  height: 30px;
+  width: 30px;
+  position: relative;
+  left: -50px;
+  cursor: pointer;
+}
+.incredescreCnt {
+  font: 600;
+  font-size: 30px;
+  position: relative;
+  top: -7px;
+}
+
+.total-price {
+  /* font-size: large; */
+  background-color: rgb(227, 197, 49);
+  color: rgb(2, 2, 2);
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  margin-bottom: 15px;
+}
