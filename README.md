@@ -1,4 +1,4 @@
-# E-commerce App
+## E-commerce App
 Welcome to our E-commerce App! This React and Redux-based application offers a streamlined shopping experience. Below, you'll find details on setting up and running the app, along with its core features.
 
 
@@ -6,9 +6,9 @@ Welcome to our E-commerce App! This React and Redux-based application offers a s
 
 
 
-## Products_List_Page
+### Products_List_Page
 
-### Home
+**Home**
 
 
 ![Screenshot (1983)](https://github.com/raghabendra-dash/Ecommerce_App/assets/147539313/6e905207-b436-4122-80ba-fcaba4d2eccd)
@@ -19,7 +19,7 @@ Welcome to our E-commerce App! This React and Redux-based application offers a s
 
 
 
-### Men collections
+**Men collections**
 
 
 ![Screenshot (1984)](https://github.com/raghabendra-dash/Ecommerce_App/assets/147539313/9a2ca683-0e7a-4eda-a665-aa7875000ce9)
@@ -29,7 +29,7 @@ Welcome to our E-commerce App! This React and Redux-based application offers a s
 
 
 
-### Women collections
+**Women collections**
 
 
   ![Screenshot (1985)](https://github.com/raghabendra-dash/Ecommerce_App/assets/147539313/8fa7fb2a-7034-4ae9-b5f8-ea4f0c96801e)
@@ -39,7 +39,7 @@ Welcome to our E-commerce App! This React and Redux-based application offers a s
 
 
 
-### Electronics collections 
+**Electronics collections**
 
 
 ![Screenshot (1986)](https://github.com/raghabendra-dash/Ecommerce_App/assets/147539313/5d0ef8f9-4ee6-4165-a754-ec02d6413511)
@@ -52,7 +52,7 @@ Welcome to our E-commerce App! This React and Redux-based application offers a s
 
 
 
-## Tech Stack
+### Tech Stack
 
 - React Toolkit
 - React-Redux
@@ -61,7 +61,7 @@ Welcome to our E-commerce App! This React and Redux-based application offers a s
  
 
 
-## Installation
+### Installation
 
 1. Clone the repository.
       git clone [CLICK](https://github.com/raghabendra-dash/Ecommerce_App.git)
@@ -69,7 +69,7 @@ Welcome to our E-commerce App! This React and Redux-based application offers a s
 2. Usage Browse through the products on the homepage. Click on a product to view more details. Add   products to the cart. Review items in the cart. Remove items from the cart. Proceed to checkout and complete the purchase.
 
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
@@ -108,7 +108,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 
-## Learn More
+### Learn More
 
 You can learn more in the Create React App documentation.
 
