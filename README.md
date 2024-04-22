@@ -1,7 +1,9 @@
 # E-commerce App
 Welcome to our E-commerce App! This React and Redux-based application offers a streamlined shopping experience. Below, you'll find details on setting up and running the app, along with its core features.
 
+
 > Go live: [Click Here](https://ecommerce-app-react-7xvq.onrender.com/)
+
 
 
 ## Products_List_Page
@@ -9,7 +11,8 @@ Welcome to our E-commerce App! This React and Redux-based application offers a s
 ### Home
 
 
-![Screenshot (1983)](https://github.com/raghabendra-dash/Ecommerce_App/assets/147539313/23850675-b03f-44ff-8980-0e1bfb8652be)
+![Screenshot (1983)](https://github.com/raghabendra-dash/Ecommerce_App/assets/147539313/6e905207-b436-4122-80ba-fcaba4d2eccd)
+
 
 
 
@@ -19,7 +22,7 @@ Welcome to our E-commerce App! This React and Redux-based application offers a s
 ### Men collections
 
 
-![Screenshot (1984)](https://github.com/raghabendra-dash/Ecommerce_App/assets/147539313/0705a701-2f5f-4a30-8c24-56a99b000aa6)
+![Screenshot (1984)](https://github.com/raghabendra-dash/Ecommerce_App/assets/147539313/9a2ca683-0e7a-4eda-a665-aa7875000ce9)
 
 
 
@@ -28,8 +31,9 @@ Welcome to our E-commerce App! This React and Redux-based application offers a s
 
 ### Women collections
 
- 
-  ![Screenshot (1985)](https://github.com/raghabendra-dash/Ecommerce_App/assets/147539313/aebcf61c-49f0-47f6-8826-d81ba4855229)
+
+  ![Screenshot (1985)](https://github.com/raghabendra-dash/Ecommerce_App/assets/147539313/8fa7fb2a-7034-4ae9-b5f8-ea4f0c96801e)
+
 
 
 
@@ -38,7 +42,10 @@ Welcome to our E-commerce App! This React and Redux-based application offers a s
 ### Electronics collections 
 
 
-![Screenshot (1986)](https://github.com/raghabendra-dash/Ecommerce_App/assets/147539313/eb524791-6473-4c49-b943-960226f5ace0)
+![Screenshot (1986)](https://github.com/raghabendra-dash/Ecommerce_App/assets/147539313/5d0ef8f9-4ee6-4165-a754-ec02d6413511)
+
+
+
 
 
 
@@ -46,7 +53,12 @@ Welcome to our E-commerce App! This React and Redux-based application offers a s
 
 
 ## Tech Stack
-HTML/CSS, Bootstrap, React-Router, JavaScript, React-Redux, React Toolkit
+
+- React Toolkit
+- React-Redux
+- React-Router
+- Bootstrap
+ 
 
 
 ## Installation
