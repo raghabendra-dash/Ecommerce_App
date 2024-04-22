@@ -8,7 +8,9 @@ Welcome to our E-commerce App! This React and Redux-based application offers a s
 
 ### Home
 
- ![Screenshot (1977)](https://github.com/raghabendra-dash/Ecommerce-App-React/assets/147539313/12340655-4a4e-4388-8f6d-9a3986202a87)
+
+![Screenshot (1983)](https://github.com/raghabendra-dash/Ecommerce_App/assets/147539313/23850675-b03f-44ff-8980-0e1bfb8652be)
+
 
 
 
@@ -16,7 +18,9 @@ Welcome to our E-commerce App! This React and Redux-based application offers a s
 
 ### Men collections
 
- ![Screenshot (1978)](https://github.com/raghabendra-dash/Ecommerce-App-React/assets/147539313/d4bec1bf-396a-4e91-9d5e-9333c888623c)
+
+![Screenshot (1984)](https://github.com/raghabendra-dash/Ecommerce_App/assets/147539313/0705a701-2f5f-4a30-8c24-56a99b000aa6)
+
 
 
 
@@ -24,7 +28,8 @@ Welcome to our E-commerce App! This React and Redux-based application offers a s
 
 ### Women collections
 
- ![Screenshot (1979)](https://github.com/raghabendra-dash/Ecommerce-App-React/assets/147539313/4ab58d5c-0131-4af9-91b8-af140283efc6)
+ 
+  ![Screenshot (1985)](https://github.com/raghabendra-dash/Ecommerce_App/assets/147539313/aebcf61c-49f0-47f6-8826-d81ba4855229)
 
 
 
@@ -32,11 +37,17 @@ Welcome to our E-commerce App! This React and Redux-based application offers a s
 
 ### Electronics collections 
 
-![Screenshot (1980)](https://github.com/raghabendra-dash/Ecommerce-App-React/assets/147539313/0c7bbd4a-e05d-4bb6-8377-e0301ff1fba0)
+
+![Screenshot (1986)](https://github.com/raghabendra-dash/Ecommerce_App/assets/147539313/eb524791-6473-4c49-b943-960226f5ace0)
+
+
+
+
 
 
 ## Tech Stack
 HTML/CSS, Bootstrap, React-Router, JavaScript, React-Redux, React Toolkit
+
 
 ## Installation
 
@@ -44,6 +55,7 @@ HTML/CSS, Bootstrap, React-Router, JavaScript, React-Redux, React Toolkit
       git clone [CLICK](https://github.com/raghabendra-dash/Ecommerce_App.git)
 
 2. Usage Browse through the products on the homepage. Click on a product to view more details. Add   products to the cart. Review items in the cart. Remove items from the cart. Proceed to checkout and complete the purchase.
+
 
 ## Available Scripts
 
@@ -74,6 +86,7 @@ See the section about deployment for more information.
 
 > npm run eject
 
+
 **Note: this is a one-way operation. Once you eject, you can't go back!**
 
 If you aren't satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
@@ -81,6 +94,7 @@ If you aren't satisfied with the build tool and configuration choices, you can e
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except eject will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
 
 ## Learn More
 
