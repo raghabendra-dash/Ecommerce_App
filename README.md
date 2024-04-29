@@ -1,4 +1,4 @@
-## NetKart
+## Ecommerce-App
 Welcome to the E-commerce App! This React and Redux-based application offers a streamlined shopping experience. Below, you'll find details on setting up and running the app, along with its core features.
 
 
